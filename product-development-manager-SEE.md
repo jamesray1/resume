@@ -1,0 +1,3 @@
+### Product Development Manager at Solar Energy Enterprises
+
+Researching additional products to sell such as solar monitoring, hybrid inverters, and energy efficiency and energy monitoring devices. Solar Energy Enterprises is a solar sales organisation focusing mostly on residential systems. I approached them to suggest that they could add some products to their line, researched them, and made a proposal which included explaining how the products work, and benefits for sales staff and for customers. They ended up adding a hybrid inverter, a solar monitoring product, and an energy monitoring and control product to their product suite.
