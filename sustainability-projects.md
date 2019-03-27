@@ -1,3 +1,8 @@
+## Incentivizing Waste Reduction
+Founder, Feb 2019 to March 2019
+
+This was a brief period looking into weight-based pricing for waste. Gaining traction with the proposal would involve a council trialing it, which requires political will. Hence, sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/)!
+
 ### Solar Engineer at Solar Energy Enterprises
 
 Two days a week from 12 July 2017—29 August 2017 doing residential and solar solar project management, which included roof feasibility studies for solar installation and grid applications. I finished the work by my choice because I wanted to focus more time on Ethereum, and could've been working full-time at Sungrow if I had wanted to (which I didn't).
