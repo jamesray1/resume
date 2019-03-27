@@ -77,3 +77,5 @@ I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a> since 
 <a href="https://about.me/james.ray" target="_blank" rel="noreferrer noopener" aria-label="https://about.me/james.ray (opens in a new tab)">https://about.me/james.ray</a>.
 
 This page is edited at [https://github.com/jamesray1/cv/](https://github.com/jamesray1/cv/).
+
+Apply <a href="https://github.com/jamesray1/hire-me/">here</a> for a public application; you get to advertise at the same time!. Fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZ4vGadZrl01nROy3VrL0C1sl9PgS_MMMlaTcDeaUR8Nm5RA/viewform?usp=pp_url" target="_blank" rel="noreferrer noopener">this form</a> for a private application.
