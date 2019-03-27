@@ -64,13 +64,13 @@ Bachelor of Engineering (Renewable Energy) at the University of New South Wales,
 
 Honours thesis: a technical, economic, and policy analysis of sustainable energy measures for homes. The thesis is available <a href="https://1sustainablelife.wordpress.com/2014/10/28/energy-wise-homes/" target="_blank" rel="noopener noreferrer">here</a>.
 
-I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)).
+I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)). See also [my skills](skills.md).
 
 ## My "training ground"
 
 Warehouse dispatch as an entry level store team member at Woolworths Mascot Online (10 February 2017–4 May 2017); gardening for several clients from roughly 2005–2015; candidate sourcing; marketing; sales; retail; project management; cleaning; data entry; forklift operation license; and general labour.
 
-I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a>&nbsp;since 2012 until late 2016, including with engineering students.
+I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a> since 2012 until late 2016, including with engineering students.
 
 ## See also
 
