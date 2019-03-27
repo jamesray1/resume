@@ -1,3 +1,7 @@
+### Project/Engineering Assistant at Todae Solar
+
+Nov 2015
+
 I worked in a project team to assess the suitability and potential for solar at 296 sites in WA, Queensland and Victoria, using nearmap and Excel. I completed the project ahead of schedule with 1000 sites assessed by myself and two other project assistants (with minimal supervision from managers) in three weeks. There were two stages to each site assessment. The first stage was assessing whether the site was suitable for solar. This included screening criteria such as enough usable area for 5 kW of panels, after considering estimating the percentage of roof elements and shading. If the site passed the screening, we would proceed to draw the area where solar would be usable, then enter the area to calculate the size of the solar system. I took the initiative to use pivot tables and filters for quality control, and corrected any errors found, resulting in a high degree of confidence in the data. I also got quotations from UAV photography providers for marketing purposes using existing solar sites in Perth. The position was a temporary full time basis to get the project done from Wednesday 11th of November to the 27th of November, while the other two assistants started on Monday the 9th.
 
 Nikhil Dhyan, the Project Manager, left a recommendation, which is available on my <a href="https://au.linkedin.com/in/jameschristopherray" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>, and is happy to be a referee.
