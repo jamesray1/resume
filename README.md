@@ -36,17 +36,17 @@ Researching sustainable innovation from the idea stage of the technology life cy
 
 Nov 2015
 
-This was a feasibility study or pre-design. More information is available [here](https://github.com/jamesray1/resume/blob/master/project-assistant-todate-solar.md).
+This was a feasibility study or pre-design. More information is available [here](project-assistant-todate-solar.md).
 
 ### Product Development Manager at Solar Energy Enterprises
 
-I worked about 4 hours a week for several weeks in mid-2015 as a product development manager. See [here](https://github.com/jamesray1/resume/blob/master/product-development-manager-SEE.md) FMI.
+I worked about 4 hours a week for several weeks in mid-2015 as a product development manager. See [here](product-development-manager-SEE.md) FMI.
 
 I also provided sales assistance and technical support at an expo and as a door-to-door lead generator doorknocker in late 2014 / early 2015.
 
 ### Operations/Engineering Assistant at Solar Analytics
 
-I worked in a full-time position from the 23rd of February 2015 to the 13th of March 2015. See [here](https://github.com/jamesray1/resume/blob/master/operations-assistant-solar-analytics) FMI.
+I worked in a full-time position from the 23rd of February 2015 to the 13th of March 2015. See [here](operations-assistant-solar-analytics) FMI.
 
 ### Village Infrastructure
 
@@ -63,6 +63,8 @@ Tutoring students from preschool to master's level in renewable energy engineeri
 Bachelor of Engineering (Renewable Energy) at the University of New South Wales, 2011–2014. <a href="https://www.slideshare.net/slideshow/embed_code/key/JMesqzjt4AcnW" target="_blank" rel="noopener noreferrer">Here is a link to an outdated version of my academic transcript</a>, although the WAM of 72.7 isn't particularly impressive. I have graduated and need to upload the latest version.
 
 Honours thesis: a technical, economic, and policy analysis of sustainable energy measures for homes. The thesis is available <a href="https://1sustainablelife.wordpress.com/2014/10/28/energy-wise-homes/" target="_blank" rel="noopener noreferrer">here</a>.
+
+I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)).
 
 ## My "training ground"
 
