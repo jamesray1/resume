@@ -27,6 +27,7 @@ Two days a week from 12 July 2017—29 August 2017 with Solar Energy Enterprises
 ### Independent researcher on the sustainable energy industry
 
 2011–2016 (this includes a Bachelor of Engineering in Renewable energy from 2011–14).
+
 Notes on my findings can be found <a href="https://sustergy.co/sustainable-energy-innovation/" target="_blank" rel="noopener noreferrer">here</a>.
 
 Researching sustainable innovation from the idea stage of the technology life cycle through to commercial maturity. I do this to find areas that I would be most interested in contributing my time, energy and money to in order to maximise positive impact.
@@ -34,6 +35,7 @@ Researching sustainable innovation from the idea stage of the technology life cy
 ### Project/Engineering Assistant at Todae Solar
 
 Nov 2015
+
 This was a feasibility study or pre-design. More information is available [here](https://github.com/jamesray1/resume/blob/master/project-assistant-todate-solar.md).
 
 ### Product Development Manager at Solar Energy Enterprises
