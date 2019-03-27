@@ -10,7 +10,7 @@ This was a brief period looking into weight-based pricing for waste. Gaining tra
 June 2017–Feb 2019
 
 Due to insufficient funding for gossipsub and Eth 2 development, after working on these projects and contributing in the Ethereum sector part-time then full time since June 2017 and Feb 2018, respectively, trying unsuccessfully to get a suitable job or grants, I'm looking for a job. I'm focusing on getting a job in the renewable energy industry, as this
-is where I have the most experience. There also aren't as many jobs in this sector compared to the renewable industry. I worked in this sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance. See [here](https://github.com/jamesray1/resume/blob/master/crypto-industry-experience.md) for more information (FMI).
+is where I have the most experience. There also aren't as many jobs in this sector compared to the renewable industry. I worked in this sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance. See [here](crypto-industry-experience.md) for more information (FMI).
 
 ## Renewable energy experience
 
@@ -22,7 +22,7 @@ See <a href="https://github.com/jamesray1/work-log/blob/master/Sungrow-log.md" t
 
 ### Solar Engineer at Solar Energy Enterprises
 
-Two days a week from 12 July 2017—29 August 2017 with Solar Energy Enterprises and Clean Energy Corporation doing residential and solar solar project management, which included roof feasibility studies for solar installation and grid applications. I finished the work by my choice because I wanted to focus more time on Ethereum, and could be working full-time at Sungrow if I wanted to (which I didn't).
+Two days a week from 12 July 2017—29 August 2017 with Solar Energy Enterprises and Clean Energy Corporation doing residential and solar solar project management, which included roof feasibility studies for solar installation and grid applications. I finished the work by my choice because I wanted to focus more time on Ethereum, and could've been working full-time at Sungrow if I had wanted to (which I didn't).
 
 ### Independent researcher on the sustainable energy industry
 
