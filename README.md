@@ -1,10 +1,5 @@
 # James Ray's resume
 
-## Incentivizing Waste Reduction
-Founder, Feb 2019 to March 2019
-
-This was a brief period looking into weight-based pricing for waste. Gaining traction with the proposal would involve a council trialing it, which requires political will. Hence, sign [this petition](https://secure.avaaz.org/en/community_petitions/Local_councils_Incentivize_waste_reduction_by_weighing_general_waste_and_charging_for_the_weight/)!
-
 ## Crypto sector experience
 
 June 2017–Feb 2019
@@ -21,7 +16,7 @@ See <a href="https://github.com/jamesray1/work-log/blob/master/Sungrow-log.md" t
 
 ### Projects
 
-See [here](renewable-energy-projects.md) for project experience.
+See [here](sustainability-projects.md) for project experience.
 
 ## Education
 
