@@ -26,17 +26,9 @@ Honours thesis: a technical, economic, and policy analysis of sustainable energy
 
 I have also done extensive self-study for blockchains, sustainable energy, and with online courses such as Coursera (these are detailed on [my LinkedIn profile](https://www.linkedin.com/in/jameschristopherray/)). See also [my skills](skills.md).
 
-## My "training ground"
-
-Warehouse dispatch as an entry level store team member at Woolworths Mascot Online (10 February 2017–4 May 2017); gardening for several clients from roughly 2005–2015; candidate sourcing; marketing; sales; retail; project management; cleaning; data entry; forklift operation license; and general labour.
-
-### Founding Principal Tutor at TuWorks
-
-July 2012–2016
-
-Tutoring students from preschool to master's level. Tutored several university students. Subjects that I have taught include: academic writing, renewable energy engineering courses such as Wind Energy Converters, and Electricity Industry Operation and Control; Excel, chemistry, physics, maths, English. Read more <a href="https://tuworks.co/" target="_blank" rel="noopener noreferrer">here</a>.
-
 ## See also
+
+See [here](training-ground.md) for other short-term, casual or intermittent roles.
 
 <a href="https://about.me/james.ray" target="_blank" rel="noreferrer noopener" aria-label="https://about.me/james.ray (opens in a new tab)">https://about.me/james.ray</a>.
 
