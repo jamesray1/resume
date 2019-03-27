@@ -52,11 +52,6 @@ I worked in a full-time position from the 23rd of February 2015 to the 13th of M
 
 I was a consultant pitching for funds for a contest for solar agroprocessing in developing countries. This was more of a project that took about a few days work in around late 2015.
 
-### Founding Principal Tutor at TuWorks
-
-July 2012–2016
-
-Tutoring students from preschool to master's level in renewable energy engineering at UNSW. Tutored several university students. Subjects that I have taught include: academic writing, renewable energy engineering courses such as Wind Energy Converters and Electricity Industry Operation and Control; Excel, chemistry, physics, maths, English. Read more <a href="https://tuworks.co/" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## Education
 
@@ -70,7 +65,11 @@ I have also done extensive self-study for blockchains, sustainable energy, and w
 
 Warehouse dispatch as an entry level store team member at Woolworths Mascot Online (10 February 2017–4 May 2017); gardening for several clients from roughly 2005–2015; candidate sourcing; marketing; sales; retail; project management; cleaning; data entry; forklift operation license; and general labour.
 
-I have also worked as a tutor at <a href="https://tuworks.co">TuWorks</a> since 2012 until late 2016, including with engineering students.
+### Founding Principal Tutor at TuWorks
+
+July 2012–2016
+
+Tutoring students from preschool to master's level. Tutored several university students. Subjects that I have taught include: academic writing, renewable energy engineering courses such as Wind Energy Converters, and Electricity Industry Operation and Control; Excel, chemistry, physics, maths, English. Read more <a href="https://tuworks.co/" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## See also
 
