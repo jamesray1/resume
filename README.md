@@ -9,8 +9,7 @@ This was a brief period looking into weight-based pricing for waste. Gaining tra
 
 June 2017–Feb 2019
 
-Due to insufficient funding for gossipsub and Eth 2 development, after working on these projects and contributing in the Ethereum sector part-time then full time since June 2017 and Feb 2018, respectively, trying unsuccessfully to get a suitable job or grants, I'm looking for a job. I'm focusing on getting a job in the renewable energy industry, as this
-is where I have the most experience. There also aren't as many jobs in this sector compared to the renewable industry. I worked in this sector because I saw that it had a lot of potential to empower individuals and organizations through the decentralized web and finance. See [here](crypto-industry-experience.md) for more information (FMI).
+See [here](crypto-industry-experience.md) for more information (FMI).
 
 ## Renewable energy experience
 
